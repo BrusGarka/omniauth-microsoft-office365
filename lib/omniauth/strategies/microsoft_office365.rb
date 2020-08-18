@@ -31,7 +31,7 @@ module OmniAuth
       extra do
         {
           "raw_info" => raw_info,
-          "ovo" => "teste"
+          "ovo" => access_token
         }
       end
 
