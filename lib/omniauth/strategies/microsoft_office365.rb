@@ -30,7 +30,8 @@ module OmniAuth
 
       extra do
         {
-          "raw_info" => raw_info
+          "raw_info" => raw_info,
+          "ovo" => "teste"
         }
       end
 
